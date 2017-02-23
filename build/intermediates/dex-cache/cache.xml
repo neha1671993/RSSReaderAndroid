@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="21cc7d9c198766b5fe15c5c6e3df4770bdf7c33e">
+        <dex dex="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b055ef74ffe885c153921f0ee6c8878ac710f152\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f27664b4f73d9c3cac8475f525a82f4f60f58142">
+        <dex dex="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32a162c41d51e7c88f5bb4e2812d910e75415e85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\lib\jsoup-1.6.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3ed782721068a6f6a4a537a20fdf7096686c4742">
+        <dex dex="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.6.2_2c53c3ebfed38923debe628f6e689ca853339d46\classes.dex" />
+    </item>
+
+</items>

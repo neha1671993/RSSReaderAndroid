@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="74951569487136"
+    token="-3461029726250293300" >
+
+    <task
+        name="javac"
+        duration="3323" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="797" />
+    <task
+        name="verifier"
+        duration="120" />
+
+    <artifact
+        location="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="74951569487136" >
+        <artifact
+            location="C:\Users\neha_singla\Desktop\1316_RSSNewsReader-master3\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
